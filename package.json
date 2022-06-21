@@ -1,0 +1,22 @@
+{
+  "name": "optimiseu",
+  "version": "1.0.0",
+  "description": "streamlined and accessable 11ty starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/optimisedu/repo.git"
+  },
+  "keywords": [
+    "11ty"
+  ],
+  "author": "David Arnold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/optimisedu/repo/issues"
+  },
+  "homepage": "https://github.com/optimisedu/repo#readme"
+}
